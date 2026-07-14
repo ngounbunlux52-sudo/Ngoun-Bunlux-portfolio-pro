@@ -1,0 +1,6 @@
+{
+  "name": "Keen Movie",
+  "description": "Interactive 3D AI Robot Assistant and Portfolio website showcasing the projects and achievements of Ngoun Bunlux, Data Science Student & AI Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
